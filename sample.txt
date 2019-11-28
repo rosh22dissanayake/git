@@ -1,0 +1,23 @@
+ echo $var;
+ $var = $var+1;
+  echo  "<br>" .$var;
+  $var += 1;
+   echo "<br>" .$var;
+echo '<br>';
+  ?>
+<?php
+
+$name = "rosha";
+$age = 25;
+
+echo "$name is $age years old";
+
+echo "<br>" .$name. " is " .$age. "years old";
+
+echo "<br>".  " my name is {$name}";
+
+?>
+
+
+</body>
+</html>
